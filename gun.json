@@ -42,12 +42,6 @@
         "duribility": 50
     },
     {
-        "name": "Kar98k",
-        "price": 120000.00,
-        "time": 130,
-        "duribility": 80
-    },
-    {
         "name": "M24",
         "price": 150000.00,
         "time": 120,
